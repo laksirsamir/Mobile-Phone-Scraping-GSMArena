@@ -18,17 +18,9 @@ This is Python script which scrape the GSMArena website mobile phones specificat
 
   Run this command on your terminal
   ```
-  python3 gsmarena_scraping.py
+  python3 gsmarena_scraping_v2.py
   ```
 
 ## Built With
 
 * [Beautifulsoup4](https://pypi.org/project/beautifulsoup4/) - Beautifulsoup4 python librabry for website scraping.
-
-## Authors
-
-* **Deepak Chawla** - [Github](https://github.com/Deepakchawla), [Linkedin](https://www.linkedin.com/in/deepakchawla1307/) and [Website](http://deepakchawla.me/).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
